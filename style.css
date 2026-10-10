@@ -344,4 +344,13 @@ section.page.active{display:block; animation:fadeIn .35s ease;}
   margin: 15px 0;
   background: #fff;
 }
+.pdf-iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  pointer-events: none;
+}
+
+
+
 
